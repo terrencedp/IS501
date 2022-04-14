@@ -1,0 +1,51 @@
+.header{
+    height: 50px;
+    background-color: lightgray;
+    line-height: 50px;
+}
+
+.footer{
+    text-align: center;
+    height: 50px;
+    background-color: black;
+    color: white;
+    line-height: 50px;
+}
+
+.mainbody{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.lefttext{
+    text-align: left;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+}
+
+.tabbutton {
+    background-color: inherit;
+    float: left;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    padding: 14px 16px;
+    transition: 0.3s;
+}
+
+.title{
+    text-align: center;
+}
+
+.tableau{
+    width: 60%;
+    margin-left: auto;
+    margin-right: auto;
+}
